@@ -28,7 +28,7 @@ const ReservationSidebar = () => {
                 <p>$40</p>
             </div>
             <hr />
-            <div className="mb-4 flex justify-between align-center font-bold">
+            <div className="mb-4 pt-1 flex justify-between align-center font-bold">
                 <p>Total</p>
                 <p>$840</p>
             </div>
